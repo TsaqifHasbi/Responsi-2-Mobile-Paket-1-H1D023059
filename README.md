@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/c0bd2388-70ee-4626-82c1-87944f3af2a2
+
 # Inventaris Barang Kategori Komputer Tsaqifmart
 
 Aplikasi mobile manajemen inventaris barang yang dibangun menggunakan Flutter. Aplikasi ini menyediakan fitur CRUD (Create, Read, Update, Delete) untuk manajemen inventaris serta sistem autentikasi user. Aplikasi menggunakan tema warna abu-abu yang konsisten dan tampilan UI modern dengan Card, Badge, dan Icon.
